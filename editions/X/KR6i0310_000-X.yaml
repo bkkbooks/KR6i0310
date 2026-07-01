@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0310/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經玄義科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0355.xml
+    old_id: X20n0355
+hash: sha256:f95c3e3a13efc8818c829efbd6d8e8250cac5b94880b6f1c9203824da79ae4ac
